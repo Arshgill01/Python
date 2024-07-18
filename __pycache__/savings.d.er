@@ -1,0 +1,5 @@
+##[pylyzer] succeed /users/arshdeepsingh/developer/pythoncs50/savings.py 1718192248 192
+.main: () -> NoneType
+.hello: (name: Obj) -> NoneType
+.goodbye: (name: Obj) -> NoneType
+

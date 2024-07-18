@@ -1,0 +1,10 @@
+##[pylyzer] succeed /users/arshdeepsingh/developer/pythoncs50/student.py 1721216812 868
+.Student: ClassType
+.Student.name: Never
+.Student.house: Never
+.Student.__call__: (name: Obj, house: Obj) -> student.Student
+.Student.__str__: (self: student.Student) -> Never
+
+.main: () -> NoneType
+.get_student: () -> student.Student
+
